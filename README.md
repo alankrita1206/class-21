@@ -1,2 +1,2 @@
-# class-21
-I learned to write functions that can accept arguments. 
+# collisionAlgorithm
+Algorithm to detect collision between two objects
